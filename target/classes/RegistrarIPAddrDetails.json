@@ -1,0 +1,36 @@
+{
+  "Environment": {
+    "qa": {
+      "SubnetR": "subnet-00ac55dbe974ec9c5",
+      "PrimaryPoolL": "10.0.110.147,10.0.110.149",
+      "ENIPerInstance": 3,
+      "EIPPerInterface": 6,
+      "PrimaryPoolR": "10.0.110.181,10.0.110.182",
+      "SubnetL": "subnet-052f99eeac5b68972",
+      "Servers": {
+        "Server1": [
+
+        ],
+        "Server2": [
+
+        ]
+      }
+    },
+    "dev": {
+      "SubnetR": "subnet-00ac55dbe974ec9c5",
+      "PrimaryPoolL": "10.0.110.145,10.0.110.142",
+      "ENIPerInstance": 3,
+      "EIPPerInterface": 6,
+      "PrimaryPoolR": "10.0.110.173,10.0.110.169",
+      "SubnetL": "subnet-052f99eeac5b68972",
+      "Servers": {
+        "Server1": [
+
+        ],
+        "Server2": [
+
+        ]
+      }
+    }
+  }
+}
